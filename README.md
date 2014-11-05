@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First repository
+Hello,
+
+This is just a test.  Hope it works!
